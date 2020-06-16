@@ -7,3 +7,7 @@ Things learned:
 - Directives
 - Components
 - Vue's Virtual DOM
+
+## Screenshots
+![The Vue View](image1.png)
+![The Vue View 2](image2.png)
